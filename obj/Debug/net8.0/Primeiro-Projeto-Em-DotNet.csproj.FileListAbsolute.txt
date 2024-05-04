@@ -1,0 +1,15 @@
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\bin\Debug\net8.0\Primeiro-Projeto-Em-DotNet.exe
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\bin\Debug\net8.0\Primeiro-Projeto-Em-DotNet.deps.json
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\bin\Debug\net8.0\Primeiro-Projeto-Em-DotNet.runtimeconfig.json
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\bin\Debug\net8.0\Primeiro-Projeto-Em-DotNet.dll
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\bin\Debug\net8.0\Primeiro-Projeto-Em-DotNet.pdb
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.sourcelink.json
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.dll
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\refint\Primeiro-Projeto-Em-DotNet.dll
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.pdb
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\Primeiro-Projeto-Em-DotNet.genruntimeconfig.cache
+C:\Users\joaov\Desktop\Projetos\Primeiro-Projeto-Em-DotNet\obj\Debug\net8.0\ref\Primeiro-Projeto-Em-DotNet.dll

@@ -10,13 +10,11 @@ namespace Primeiro_Projeto_Em_DotNet.models
         // Atributos
         public string Name { get; set; }
         public int Age { get; set; }
-        public double height { get; set; }
 
 
         // Constructor Item obrigario na criação do objeto
-        public Person(string name)
+        public Person()
         {
-            this.Name = name;
         }
 
         // Metodos

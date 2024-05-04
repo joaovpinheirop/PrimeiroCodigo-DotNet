@@ -2,8 +2,11 @@
 using Primeiro_Projeto_Em_DotNet.models;
 
 // Novo Objeto Pessoa
-Person person = new Person("Joao");
+Person person = new Person();
 
+
+// Determinar Idade
+person.Name = "Joao";
 // Determinar Idade
 person.Age = 18;
 
