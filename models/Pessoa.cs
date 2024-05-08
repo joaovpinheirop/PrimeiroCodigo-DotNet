@@ -11,8 +11,6 @@ namespace Primeiro_Projeto_Em_DotNet.models
         public string Name { get; set; }
         public int Age { get; set; }
 
-
-        // Constructor Item obrigario na criação do objeto
         public Person()
         {
         }
